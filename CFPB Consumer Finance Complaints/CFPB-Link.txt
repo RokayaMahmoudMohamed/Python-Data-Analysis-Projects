@@ -1,0 +1,1 @@
+https://www.consumerfinance.gov/data-research/consumer-complaints/search/?date_received_max=2023-01-02&date_received_min=2020-01-02&page=1&searchField=all&size=25&sort=created_date_desc&tab=List
